@@ -2,7 +2,7 @@
     font-family: 'Garamond Condensed';
     src: url('GaramondCondBook.woff2') format('woff2'),
         url('GaramondCondBook.woff') format('woff');
-    font-weight: 100;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
